@@ -18,8 +18,8 @@ Hexo 安装主题的方式非常简单，只需要将主题文件放置于站点
 为了方便之后的更新，建议使用 **克隆** 的方式。克隆命令如下：
 
 ```shell
-$ cd your-hexo-site
-$ git clone https://github.com/viosey/hexo-theme-material.git
+$ cd your-hexo-site/themes
+$ git clone https://github.com/viosey/hexo-theme-material.git material
 ```
 
 ### NPM
@@ -92,7 +92,9 @@ npm-check hexo-material
 - English (en)
 - Español (es)
 - Français (fr)
+- Deutsche (de)
 - 日本語 (ja)
+- Malay (ms)
 - 简体中文 (zh-CN)
 - 繁體中文 (zh-TW)
 
